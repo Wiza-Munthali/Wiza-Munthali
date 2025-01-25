@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Senior Application Developer | Mobile & Web Enthusiast<br><br>👨🏾‍🏫 I'm a passionate software developer specializing in Flutter, Kotlin, and full-stack web development. With experience leading projects from concept to launch, I thrive on building scalable, high-impact applications.<br><br>🌟 Notable Creations And Contribution:<br>🎙️ (https://www.apphatchery.org/projects/fabla)[Audio Diaries (Fabla)] – A cross-platform storytelling experience with AWS & Firebase<br>📚 TB Reference Guide – A life-saving Kotlin-based medical reference for Android
+🚀 Senior Application Developer | Mobile & Web Enthusiast<br><br>👨🏾‍🏫 I'm a passionate software developer specializing in Flutter, Kotlin, and full-stack web development. With experience leading projects from concept to launch, I thrive on building scalable, high-impact applications.<br><br>🌟 Notable Creations And Contribution:<br>🎙️ [Audio Diaries (Fabla)](https://www.apphatchery.org/projects/fabla) – A cross-platform storytelling experience with AWS & Firebase<br>📚 [TB Reference Guide](https://www.apphatchery.org/projects/tb-guide) – A life-saving Kotlin-based medical reference for Android
 
 
 # 💻 Tech Stack:
